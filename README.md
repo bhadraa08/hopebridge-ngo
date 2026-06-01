@@ -4,7 +4,7 @@ A modern, responsive NGO website built to support donations, volunteer engagemen
 
 ## 🌍 Live Website
 
-Website: https://your-vercel-link.vercel.app](https://hopebridge-ngo-lake.vercel.app/
+Website: https://hopebridge-ngo-lake.vercel.app/
 
 
 ## 📖 About
