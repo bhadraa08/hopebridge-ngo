@@ -1,0 +1,6 @@
+{
+  "name": "HopeBridge Foundation",
+  "description": "Empowering marginalized communities across India through sustainable education, healthcare, and economic initiatives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
