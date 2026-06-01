@@ -1,20 +1,132 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# HopeBridge Foundation 🌱
 
-# Run and deploy your AI Studio app
+A modern, responsive NGO website built to support donations, volunteer engagement, and awareness initiatives for HopeBridge Foundation.
 
-This contains everything you need to run your app locally.
+## 🌍 Live Website
 
-View your app in AI Studio: https://ai.studio/apps/028ce4e2-ff15-4af9-8f35-d963b4290209
-
-## Run Locally
-
-**Prerequisites:**  Node.js
+Website: https://your-vercel-link.vercel.app](https://hopebridge-ngo-lake.vercel.app/
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 📖 About
+
+HopeBridge Foundation is an NGO-focused web platform designed to:
+
+* Support education initiatives for underprivileged children
+* Promote rural healthcare programs
+* Empower women through skill development
+* Encourage environmental sustainability projects
+* Connect volunteers with meaningful opportunities
+* Facilitate online donations
+
+## ✨ Features
+
+### Home Page
+
+* Modern hero section
+* Impact statistics
+* Featured causes
+* Testimonials
+* Call-to-action sections
+
+### Causes
+
+* Education programs
+* Healthcare initiatives
+* Women empowerment projects
+* Environmental sustainability campaigns
+
+### Donate
+
+* Donation-focused interface
+* Multiple contribution options
+* Impact-based donation messaging
+
+### Volunteer
+
+* Volunteer registration form
+* Skills and availability selection
+* Community engagement opportunities
+
+### Gallery
+
+* Program and event showcases
+* Community impact highlights
+
+### Blog
+
+* NGO updates and stories
+* Awareness articles
+* Impact reports
+
+### Contact
+
+* Contact form
+* Organization details
+* Location information
+
+## 📱 Responsive Design
+
+Optimized for:
+
+* Desktop
+* Laptop
+* Tablet
+* Mobile devices
+
+## 🛠️ Tech Stack
+
+* React
+* TypeScript
+* Vite
+* Tailwind CSS
+* Lucide React
+* Motion
+
+## 🚀 Local Development
+
+Clone the repository:
+
+```bash
+git clone https://github.com/bhadraa08/hopebridge-ngo.git
+```
+
+Navigate to the project:
+
+```bash
+cd hopebridge-ngo
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+## 📂 Repository
+
+GitHub Repository:
+https://github.com/bhadraa08/hopebridge-ngo
+
+## 🤝 Contributing
+
+Contributions, suggestions, and improvements are welcome.
+
+## 📄 License
+
+This project is intended for educational and NGO demonstration purposes.
+
+---
+
+Built with ❤️ for social impact and community development.
